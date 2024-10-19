@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765220729594",
+    "project_id": "gastos-aa516",
+    "storage_bucket": "gastos-aa516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765220729594:android:1a61bac254e731a3e64f43",
+        "android_client_info": {
+          "package_name": "com.example.gastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5n722oFqAcb8I1Rr-ui0QFnJDaB1rKhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
